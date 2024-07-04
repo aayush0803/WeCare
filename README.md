@@ -8,7 +8,7 @@
   <h3 align="center">Wecare - The HealthVerse</h3>
 
   <p align="center">
-    <a href="https://wecare32.vercel.app/" target="blank">Live Demo</a> |
+    <a href="https://wecare32.vercel.app/" target="blank">Live Demo</a> 
   </p>
 </div>
 
