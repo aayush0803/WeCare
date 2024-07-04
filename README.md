@@ -49,44 +49,6 @@ We have here modernized our healthcare system through  WeCare Fun Bot , WeCare C
 
 6. **ML Frameworks**       : `Numpy` , `Pandas` , `Tensorflow` , `Sklearn` , `nltk` 
 
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
----
-
-### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This project doesn't rely on any external dependencies or services._
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/Pranshu321/Placed.git
-   ```
-2. Now install all npm packages.
-   ```sh
-    npm i 
-   ```
-
-3. Now you have define own firebase project config at `firebase/firebaseconfig.js`.
-
-   ![image](https://user-images.githubusercontent.com/86917304/183728317-30372103-f0d7-4e99-b12c-7f0cd825ea18.png)
-
-4. Open another terminal, install the requirements.txt and run the Chatbot API at `localhost:8000`
-  
-    ```
-    pip install -r requirements. txt
-    
-    uvicorn app.app:app --reoload
-    ```
-
-5. After all steps defined above you can run command int the previous terminal `npm start` to run application at `localhost:3000`.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
----
 
 ## Let's do a walkthrough of my app
 
