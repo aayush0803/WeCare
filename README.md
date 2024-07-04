@@ -9,8 +9,6 @@
 
   <p align="center">
     <a href="https://wecare32.vercel.app/" target="blank">Live Demo</a> |
-    <a href="https://github.com/Sreetama2001/WeCare_Hackit/issues" target="blank">Report Bug</a> |
-    <a href="https://github.com/Sreetama2001/WeCare_Hackit/issues" target="blank">Request Feature</a>
   </p>
 </div>
 
