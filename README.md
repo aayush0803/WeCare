@@ -115,7 +115,6 @@ We have here modernized our healthcare system through  WeCare Fun Bot , WeCare C
 
 
 
-## Team Name - Hackit 
   
  
   
